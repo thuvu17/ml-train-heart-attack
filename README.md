@@ -1,25 +1,26 @@
 # **Breast Cancer**
-(I think we can first write write-up here)
-dataset: 
-## **Introduction** 
-
-## **Unsupervised Analysis**
-
-## **Supervised Analysis**
-1. Logistic Regression 
-    * Feature Transformation: 
-    * Regularization Techniques:
-
-2.
-    * Feature Transformation: 
-    * Regularization Techniques:
-
-3.
-    * Feature Transformation: 
-    * Regularization Techniques:
-
-
-## **Table Result**
-
-## **Analytical Discussion**
+## ** Checklist **
+- **Supervised Analysis**
+    - **Logistic Regression**
+        - [ ] Feature transformation
+        - [ ] Regularization
+        - [ ] Training Accuracy
+        - [ ] Validation Accuracy
+        - [ ] Evaluation
+    - **SVM**
+        - [ ] Feature transformation
+        - [ ] Regularization
+        - [ ] Training Accuracy
+        - [ ] Validation Accuracy
+        - [ ] Evaluation
+    - **Neural Network**
+        - [ ] Feature transformation
+        - [ ] Regularization
+        - [ ] Training Accuracy
+        - [ ] Validation Accuracy
+        - [ ] Evaluation
+- [ ] **Unsupervised Analysis (optional)**
+- [ ] **Write-up**
+- [ ] **Presentation Slides**
+        
 
