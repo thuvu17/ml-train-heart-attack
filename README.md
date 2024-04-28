@@ -3,10 +3,10 @@
 - **Supervised Analysis**
     - **Logistic Regression**
         - [ ] Feature transformation
-        - [ ] Regularization
+        - [x] Regularization
         - [ ] Training Accuracy
         - [ ] Validation Accuracy
-        - [ ] Evaluation
+        - [x] Evaluation
     - **SVM**
         - [ ] Feature transformation
         - [ ] Regularization
@@ -15,11 +15,12 @@
         - [ ] Evaluation
     - **Neural Network**
         - [ ] Feature transformation
-        - [ ] Regularization
+        - [x] Without Regularization
+        - [ ] Adding Regularization
         - [ ] Training Accuracy
         - [ ] Validation Accuracy
         - [ ] Evaluation
-- [ ] **Unsupervised Analysis (optional)**
+- [x] **Unsupervised Analysis (optional)**
 - [ ] **Write-up**
 - [ ] **Presentation Slides**
         
