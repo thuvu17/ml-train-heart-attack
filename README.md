@@ -6,7 +6,7 @@
         - [x] Regularization
         - [ ] Training Accuracy
         - [ ] Validation Accuracy
-        - [x] Evaluation
+        - [x] Evaluation: feature transformation evaluation not done
     - **SVM**
         - [ ] Feature transformation
         - [ ] Regularization
