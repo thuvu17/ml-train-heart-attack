@@ -2,11 +2,17 @@
 ## ** Checklist **
 - **Supervised Analysis**
     - **Logistic Regression**
-        - [ ] Feature transformation
-        - [x] Regularization
+        - [x] Feature transformation: Polynomial, degree = 2, 3, 4.
+            - [x] Training Accuracy
+            - [ ] Validation Accuracy
+            - [x] Comparison
+        - [ ] Regularization: L1, L2
+            - need table to show training and validation for each lambda
+            - [x] Comparison
         - [ ] Training Accuracy
         - [ ] Validation Accuracy
-        - [x] Evaluation: feature transformation evaluation not done
+            - K-fold??? I dont know how to do it
+        - [ ] Evaluation
     - **SVM**
         - [ ] Feature transformation
         - [ ] Regularization
