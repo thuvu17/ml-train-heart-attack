@@ -11,7 +11,7 @@
             - [x] Comparison
         - [ ] Training Accuracy
         - [ ] Validation Accuracy
-            - K-fold??? I dont know how to do it
+            - K-fold
         - [ ] Evaluation
     - **SVM**
         - [ ] Feature transformation
